@@ -71,6 +71,20 @@
 
   
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-130428798-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
   
 
   
@@ -85,6 +99,9 @@
   <link rel="canonical" href="/privacy/">
 
   <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@AMSilvaMachado">
+  <meta property="twitter:creator" content="@AMSilvaMachado">
   
   <meta property="og:site_name" content="Alexandre M. S. Machado">
   <meta property="og:url" content="/privacy/">
@@ -293,6 +310,9 @@
 
   
   
+  <span class="middot-divider"></span>
+  <a href="/privacy/#disqus_thread"></a>
+  
 
   
 
@@ -357,6 +377,29 @@
     
 
     
+<section id="comments">
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "alexandremarcelsm" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
 
 
   </div>
@@ -449,6 +492,8 @@
 
     
     
+    
+    <script id="dsq-count-scr" src="//alexandremarcelsm.disqus.com/count.js" async></script>
     
 
     
