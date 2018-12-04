@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About me Hi! I am a member of the Aquatic Mammals Lab (LAMAq) research group, at Universidade Federal de Santa Catarina, Florianópolis, Brasil. I am</description>
+      <description>About me Hi, there! I am a researcher associate of the Aquatic Mammals Lab (LAMAq) research group, at Universidade Federal de Santa Catarina, Florianópolis, Brazil. I am most interested in behavioural ecology and the role of individual variation in behavior and it&amp;rsquo;s implications to the population level. I am also interested in how human populations interact with marine wildlife, and how both humans and animals can benefit from conservation. I had the opportunity to address such interesting topics using as a model the population of bottlenose dolphins that forages in cooperation with fishermen in Laguna, southern Brazil.</description>
     </item>
     
     <item>
@@ -82,6 +82,15 @@
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
     <item>
