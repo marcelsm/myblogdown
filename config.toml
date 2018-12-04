@@ -57,17 +57,17 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Alexandre Marcel da Silva Machado"
+  name = "Alexandre M. S. Machado"
   role = "MSc in Ecology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "UFSC/ECZ/LAMAQ", url = "http://www.lamaq.ufsc.br/" } ]
+  organizations = [ { name = "LAMAQ-UFSC", url = "http://www.lamaq.ufsc.br/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "amsm_profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alexandremarcelsm@hotmail.com"
-  address = "Laboratório de Mamíferos Aquáticos (LAMAQ), Universidade Federal de Santa Catarina, Florianópolis, Brasil"
+  address = "Laboratório de Mamíferos Aquáticos (LAMAQ), Departamento de Ecologia e Zoologia, Universidade Federal de Santa Catarina, Florianópolis - SC, Brasil"
   office_hours = false
   phone = false
   skype = false
