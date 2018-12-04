@@ -29,6 +29,6 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
-I am a member of the [Aquatic Mammals Lab (LAMAq)](http://lamaq.ufsc.br) research group, at [Universidade Federal de Santa Catarina](https://ufsc.br/), Florianópolis, Brasil.
+Hi, there! I am a researcher associate of the [Aquatic Mammals Lab (LAMAq)](http://lamaq.ufsc.br) research group, at [Universidade Federal de Santa Catarina](https://ufsc.br/), Florianópolis, Brazil. I am most interested in behavioural ecology and the role of individual variation in behavior and it's implications to the population level. I am also interested in how human populations interact with marine wildlife, and how both humans and animals can benefit from conservation. I had the opportunity to address such interesting topics using as a model the population of bottlenose dolphins that forages in cooperation with fishermen in Laguna, southern Brazil. 
