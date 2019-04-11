@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-03-17T00:00:00
 
 # Project title.
 title = "Individual traits affect the society of bottlenose dolphins that forages cooperatively with artisanal fishermen"
@@ -40,3 +40,7 @@ In Laguna, southern Brazil, some individuals of a bottlenose dolphin population 
 
 2016: [The Society for Marine Mammalogy (USA)](https://www.marinemammalscience.org/)      
 2017: [Animal Behaviour Society (USA)](http://www.animalbehaviorsociety.org/web/index.php)
+
+### Media coverage
+
+Check a piece of our work on (National Geographic)[https://www.nationalgeographic.com/animals/2019/04/dolphins-fishermen-brazil-culture/], written by (Erica Tennenhouse)[https://ericatennenhouse.com/].

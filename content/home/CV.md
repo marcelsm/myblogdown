@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-You can find a short CV [here](https://1drv.ms/b/s!AmU57lZqONmUgc9_cBjzWddZ_swgEA). There is also a complete version in portuguese, available in the brazilian curriculum database ([Lattes]((http://lattes.cnpq.br/1510929431184143))).
+You can find a copy of my CV [here](https://1drv.ms/b/s!AmU57lZqONmUgc9_cBjzWddZ_swgEA). There is also a complete version in portuguese, available in the brazilian curriculum database ([Lattes]((http://lattes.cnpq.br/1510929431184143))).

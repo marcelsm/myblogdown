@@ -72,7 +72,7 @@ enableGitInfo = false
   phone = false
   skype = false
   telegram = false
-  twitter = "AMSilvaMachado"
+  twitter = "AleMSMachado"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -235,7 +235,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/AMSilvaMachado"
+    link = "//twitter.com/AleMSMachado"
 
   [[params.social]]
     icon = "google-scholar"
@@ -251,6 +251,11 @@ enableGitInfo = false
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0001-6252-6890"
+    
+  [[params.social]]
+    icon = "lattes"
+    icon_pack = "ai"
+    link = "http://lattes.cnpq.br/1510929431184143"
     
   [[params.social]]
     icon = "cv"
