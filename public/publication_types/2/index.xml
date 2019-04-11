@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
+      <title>Homophily around specialized foraging underlies dolphin social preferences</title>
+      <link>/publication/machado-et-al-2019-biol-lett/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/machado-et-al-2019-biol-lett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artisanal fishers&#39; perceptions of the ecosystem services derived from a dolphin-human cooperative fishing interaction in southern Brazil</title>
+      <link>/publication/machado-et-al-2019-ocma/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/machado-et-al-2019-ocma/</guid>
+      <description></description>
     </item>
     
   </channel>

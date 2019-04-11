@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>Behaviour Ecology</title>
       <link>/tags/behaviour-ecology/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 -0300</pubDate>
       
       <guid>/tags/behaviour-ecology/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Human-wildlife interactions</title>
+      <link>/tags/human-wildlife-interactions/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 -0300</pubDate>
+      
+      <guid>/tags/human-wildlife-interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/tags/projects/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 -0300</pubDate>
       
       <guid>/tags/projects/</guid>
       <description></description>
