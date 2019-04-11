@@ -233,7 +233,7 @@ enableGitInfo = false
     link = "mailto:alexandremarcelsm@hotmail.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "twitter-square"
     icon_pack = "fa"
     link = "//twitter.com/AleMSMachado"
 

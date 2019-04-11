@@ -43,4 +43,4 @@ In Laguna, southern Brazil, some individuals of a bottlenose dolphin population 
 
 ### Media coverage
 
-Check a piece of our work on (National Geographic)[https://www.nationalgeographic.com/animals/2019/04/dolphins-fishermen-brazil-culture/], written by (Erica Tennenhouse)[https://ericatennenhouse.com/].
+Check a piece of our work on [National Geographic](https://www.nationalgeographic.com/animals/2019/04/dolphins-fishermen-brazil-culture/), written by [Erica Tennenhouse](https://ericatennenhouse.com/).

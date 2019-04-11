@@ -15,6 +15,6 @@ selected = true
 url_pdf = ""
 
 [[url_custom]]
-    name = "doi"
+    name = "PDF"
     url = "https://doi.org/10.1016/j.ocecoaman.2019.03.003"
 +++
