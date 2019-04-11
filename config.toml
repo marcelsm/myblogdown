@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Alexandre M. S. Machado"
-  role = "MSc in Ecology"
+  role = "PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -233,7 +233,7 @@ enableGitInfo = false
     link = "mailto:alexandremarcelsm@hotmail.com"
 
   [[params.social]]
-    icon = "twitter-square"
+    icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/AleMSMachado"
 

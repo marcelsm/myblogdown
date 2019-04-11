@@ -14,10 +14,7 @@ selected = true
 
 url_pdf = ""
 
-[[url_custom]]
-    name = "National Geographic"
-    url = "https://www.nationalgeographic.com/animals/2019/04/dolphins-fishermen-brazil-culture/"
-    
+
 [[url_custom]]
     name = "PDF"
     url = "http://dx.doi.org/10.1098/rsbl.2018.0909"
@@ -25,5 +22,8 @@ url_pdf = ""
 [[url_custom]]
     name = "Supplementary Material"
     url = "https://dx.doi.org/10.6084/m9.figshare.c.4447775"
-    
+   
+[[url_custom]]
+    name = "National Geographic"
+    url = "https://www.nationalgeographic.com/animals/2019/04/dolphins-fishermen-brazil-culture/"
 +++
