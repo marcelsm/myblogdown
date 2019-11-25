@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Ecology",
-    "Behaviour Ecology",
+    "Behavioral Ecology",
     "Human-wildlife interactions"
   ]
 
