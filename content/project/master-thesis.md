@@ -45,3 +45,4 @@ In Laguna, southern Brazil, some individuals of a bottlenose dolphin population 
 
 - [National Geographic](https://www.nationalgeographic.com/animals/2019/04/dolphins-fishermen-brazil-culture/), written by [Erica Tennenhouse](https://ericatennenhouse.com/): *These fishermen-helping dolphins have their own culture*.
 - [Phys.org](https://phys.org/news/2019-04-dolphins-fishermen-meals.html): *Dolphins who help fishermen found to also hang out together between meals*
+- [Brut. (France)](https://www.brut.media/fr/international/bresil-quand-dauphins-et-pecheurs-travaillent-ensemble-56cd0fb7-d9d4-4048-a20d-53e382da2140): *Brésil : quand dauphins et pêcheurs travaillent ensemble*
