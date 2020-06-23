@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://alexandremachado.netlify.app/"
 
 # Title of your site
 title = "Alexandre M. S. Machado"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Alexandre M. S. Machado, {year}"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -57,7 +57,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Alexandre M. S. Machado"
+  name = ""
   role = "PhD Student"
 
   # Organizations/Affiliations.
@@ -207,7 +207,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -234,7 +234,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "ai"
     link = "//twitter.com/AleMSMachado"
 
   [[params.social]]
