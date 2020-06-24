@@ -13,7 +13,7 @@ title = "Alexandre M. S. Machado"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Alexandre M. S. Machado, {year}"
+copyright = "&copy; Alexandre M. S. Machado, 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -57,7 +57,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = ""
+  name = "Alexandre M. S. Machado"
   role = "PhD Student"
 
   # Organizations/Affiliations.
@@ -72,7 +72,7 @@ enableGitInfo = false
   phone = false
   skype = false
   telegram = false
-  twitter = "AleMSMachado"
+  twitter = false
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -234,7 +234,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "ai"
+    icon_pack = "fab"
     link = "//twitter.com/AleMSMachado"
 
   [[params.social]]
